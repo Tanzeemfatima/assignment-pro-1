@@ -4,7 +4,7 @@
 }
 
 header {
-    background-image: url('../assignment-pro-1/images/Banner\ Image.png');
+    background-image: url('./images/Banner\ Image.png');
     background-repeat: no-repeat;
     background-position: top center;
     height: 100vh;
